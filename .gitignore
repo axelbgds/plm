@@ -1,0 +1,8 @@
+.secrets/
+__pycache__/
+*.pyc
+.env
+/data/raw/*
+/data/processed/*
+/logs/*
+.DS_Store
